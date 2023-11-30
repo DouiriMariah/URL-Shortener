@@ -44,3 +44,4 @@ Notes
     If an invalid URL is entered, the script prompts the user to enter a valid URL.
     Typing "exit" or "quit" or Ctrl C during the URL input prompt exits the script.
     The script uses pyshorteners for URL shortening and validators for URL validation.
+    fghhjjklm
